@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_8ababca73dbd3b9ce1deba08c3e8bda12b6dd32a.jar" />
+    </item>
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_e0ad464e4d50f6e17e35b553e7e544eedb037a4d.jar" />
+    </item>
+    <item
+        jar="/home/susana/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_1bbf41d0bc8cd403cbc16ddae25565e4d0c298e4.jar" />
+    </item>
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/org.lucasr.twowayview/twowayview/0.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f4c3a1a784563dd6f014ddf8e3a173cf3f152dd8">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/org.lucasr.twowayview-twowayview-0.1.1_8a1cdaf6c3dd8d7645a44534dc7f8035a817083b.jar" />
+    </item>
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_572b513e0413427563b52cf45faa8f0420631c70.jar" />
+    </item>
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_52b954060b0c49cc9000d3bf0595a9e5aeba73c2.jar" />
+    </item>
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.1.0_6a1bdc61ecdeefc96c99e37feea52aac79cff083.jar" />
+    </item>
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_a122aeb7f38a29ae79a916194e1ae97c75056394.jar" />
+    </item>
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_7c094e4db278b976a115d0e8831644b4dc5931f6.jar" />
+    </item>
+    <item
+        jar="/home/susana/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_97a8cdc0996c09d73b628edf903094f9021bc30a.jar" />
+    </item>
+    <item
+        jar="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/susana/Escritorio/Moin_Nisha2/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.0.0_f2030cfbfa9d4d811c2a911aa8008ee4bbfbaf77.jar" />
+    </item>
+
+</items>
